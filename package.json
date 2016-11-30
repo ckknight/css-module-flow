@@ -1,0 +1,23 @@
+{
+  "name": "css-module-flow",
+  "version": "1.0.0",
+  "description": "A flow-friendly module that represents a CSS module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckknight/css-module-flow.git"
+  },
+  "keywords": [
+    "flow",
+    "flowtype",
+    "css",
+    "cssmodule",
+    "module"
+  ],
+  "author": "Cameron Knight <ckknight@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckknight/css-module-flow/issues"
+  },
+  "homepage": "https://github.com/ckknight/css-module-flow#readme"
+}
